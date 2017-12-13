@@ -1,0 +1,14 @@
+{
+  "name": "lando-platformsh",
+  "version": "1.0.0",
+  "description": "Install and execute the Platform.sh Cli within Lando Services.",
+  "main": "index.js",
+  "author": "Tyler Mills <tylerssn@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lando": "lando/lando"
+  },
+  "dependencies": {
+    "lando-plugin-anywhere": "^1.0.21"
+  }
+}
