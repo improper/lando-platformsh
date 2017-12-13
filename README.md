@@ -12,4 +12,3 @@ Now, give it a try from within your project root directory (where your package.j
 **Key Points**
 
 - This plugin depends on and installs `lando-plugin-anywhere` which allows this plugin to be autoloaded from your `node_modules` directory of your project.
-
