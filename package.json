@@ -1,6 +1,6 @@
 {
   "name": "lando-platformsh",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "Install and execute the Platform.sh Cli within Lando Services.",
   "main": "index.js",
   "author": "Tyler Mills <tylerssn@gmail.com>",
